@@ -2,13 +2,10 @@
 
 <small>
 
-👋 Hi, I'm **Abraham Grace**  
-🎓 I'm a Computer Science & Engineering student passionate about building real-world applications and exploring the backend of software systems.
-
-💡 I enjoy learning new technologies and frameworks, and I'm currently diving deeper into:
-- 🔧 JavaFX, Node.js, and Vanilla JS  
-- 📦 REST APIs & backend development  
-- 🧠 AI tools and automation
+👋 I’m Abraham Grace, an Integrated M.Tech Software Engineering student at VIT Vellore.
+I specialize in Java and DSA and am currently diving into backend development using Spring Boot and MySQL.
+I build logic-driven CLI and web-based projects, document them on GitHub, and consistently practice algorithms.
+Open to internships, collaborations, and learning new technologies.
 
 </small>
 
